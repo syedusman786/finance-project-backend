@@ -1,0 +1,2 @@
+2026-02-26 13:21:49 error: [POST] /v1/api/auth/login >> StatusCode:: 500, Message:: Invalid credentials. Please check your username and password.
+2026-02-26 13:42:55 error: [POST] /v1/api/auth/login >> StatusCode:: 500, Message:: Invalid credentials. Please check your username and password.

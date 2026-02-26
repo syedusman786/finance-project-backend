@@ -1,0 +1,14 @@
+2026-02-26 13:09:08 info: =================================
+2026-02-26 13:09:08 info: ======= ENV: development =======
+2026-02-26 13:09:08 info: 🚀 App listening on the port 3002
+2026-02-26 13:09:08 info: =================================
+2026-02-26 13:21:48 info: [0mOPTIONS /v1/api/auth/login [32m204[0m 9.725 ms - 0[0m
+2026-02-26 13:21:49 error: [POST] /v1/api/auth/login >> StatusCode:: 500, Message:: Invalid credentials. Please check your username and password.
+2026-02-26 13:21:49 info: [0mPOST /v1/api/auth/login [31m500[0m 347.666 ms - 75[0m
+2026-02-26 13:21:56 info: [0mOPTIONS /v1/api/auth/login [32m204[0m 0.295 ms - 0[0m
+2026-02-26 13:21:56 info: [0mPOST /v1/api/auth/login [32m200[0m 16.895 ms - 350[0m
+2026-02-26 13:42:55 info: [0mOPTIONS /v1/api/auth/login [32m204[0m 13.791 ms - 0[0m
+2026-02-26 13:42:55 error: [POST] /v1/api/auth/login >> StatusCode:: 500, Message:: Invalid credentials. Please check your username and password.
+2026-02-26 13:42:55 info: [0mPOST /v1/api/auth/login [31m500[0m 290.759 ms - 75[0m
+2026-02-26 13:43:02 info: [0mOPTIONS /v1/api/auth/login [32m204[0m 0.451 ms - 0[0m
+2026-02-26 13:43:02 info: [0mPOST /v1/api/auth/login [32m200[0m 47.954 ms - 350[0m
