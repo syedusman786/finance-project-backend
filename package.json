@@ -11,6 +11,7 @@
     "build:tsc": "tsc && tsc-alias",
     "dev": "cross-env NODE_ENV=development nodemon",
     "production": "cross-env NODE_ENV=production nodemon",
+    "start": "npm run build && node dist/app/server.js",
     "start:dev": "npm run build && cross-env NODE_ENV=development node dist/app/server.js",
     "start:uat": "npm run build && cross-env NODE_ENV=uat node dist/app/server.js",
     "start:production": "npm run build && cross-env NODE_ENV=production node dist/app/server.js",
@@ -104,3 +105,4 @@
     "typescript": "^4.7.4"
   }
 }
+
